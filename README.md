@@ -18,6 +18,10 @@ Run in terminal:
 
 Open the `goal.txt` file and edit the puzzle (3x3). Numbers need to be between 0 and 8.
 
+## Example
+
+![](example.gif)
+
 ## Authors
 
 - Murillo de Miranda Pereira [@murillo94](https://github.com/murillo94)
